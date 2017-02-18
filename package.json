@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/linkRachit/Express-js-sample/issues"
   },
-  "homepage": "https://github.com/linkRachit/Express-js-sample#readme"
+  "homepage": "https://github.com/linkRachit/Express-js-sample#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
