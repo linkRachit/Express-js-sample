@@ -1,0 +1,19 @@
+{
+  "name": "express-js-sample",
+  "version": "1.0.0",
+  "description": "Basic node.js sample app using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkRachit/Express-js-sample.git"
+  },
+  "author": "Rachit Goel<rachit2goel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkRachit/Express-js-sample/issues"
+  },
+  "homepage": "https://github.com/linkRachit/Express-js-sample#readme"
+}
